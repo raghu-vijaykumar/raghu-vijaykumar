@@ -7,3 +7,5 @@ At [**Equifax**](https://www.equifax.com/), I led platform solutions for multipl
 At [**Boeing**](https://www.boeing.com/#innovation), I consolidated microservices, streamlined deployment processes with Kubernetes and Helm, and optimized BigQuery storage, achieving substantial cost savings. Additionally, I developed Apache Beam pipelines for processing large-scale flight data, built a unified data ingestion layer for airline operators, and conducted sentiment analysis to improve employee satisfaction. These contributions earned multiple awards for outstanding performance.
 
 Beyond work, I enjoy cycling, swimming, exploring new restaurants, and sharing my experiences through detailed reviews. My technical acumen and passion for solving complex problems drive me to seek opportunities to innovate and make meaningful contributions to the tech industry.
+
+![Skills](./skill-map.png)
