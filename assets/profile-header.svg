@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B1020"/>
+    <stop offset="0.55" stop-color="#101A33"/>
+    <stop offset="1" stop-color="#07151A"/>
+  </linearGradient>
+  <linearGradient id="a" x1="180" y1="70" x2="1020" y2="240" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#67E8F9"/>
+    <stop offset="1" stop-color="#60A5FA"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<g opacity="0.13" stroke="#94A3B8">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+  <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+</g>
+<g opacity="0.7" stroke="url(#a)" stroke-width="2">
+  <path d="M720 62L850 105L1000 70L1110 145L1020 235L870 205L760 250L650 180L720 62Z"/>
+  <path d="M850 105L870 205M1000 70L1020 235M760 250L870 205M650 180L850 105"/>
+</g>
+<g fill="#67E8F9">
+  <circle cx="720" cy="62" r="5"/><circle cx="850" cy="105" r="5"/><circle cx="1000" cy="70" r="5"/>
+  <circle cx="1110" cy="145" r="5"/><circle cx="1020" cy="235" r="5"/><circle cx="870" cy="205" r="5"/>
+  <circle cx="760" cy="250" r="5"/><circle cx="650" cy="180" r="5"/>
+</g>
+<text x="72" y="118" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">Raghu Vijaykumar</text>
+<text x="75" y="163" fill="#A5F3FC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">Cloud · Distributed Systems · Data · AI</text>
+<text x="75" y="207" fill="#CBD5E1" font-family="Inter,Arial,sans-serif" font-size="17">Building systems. Exploring ideas. Making technical things visual.</text>
+<text x="75" y="247" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="14">software • systems • experiments • explanations</text>
+</svg>
